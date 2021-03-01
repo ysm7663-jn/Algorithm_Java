@@ -19,6 +19,7 @@ public class N2309 {
 			for (int j = i + 1; j < 9; j++) {
 				if (sum - arr[i] - arr[j] == 100) {
 					printResult(arr, i, j);
+					return ;
 				} 
 			}
 		}
