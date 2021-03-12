@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
-
+// 가짜 난쟁이
 public class N2309 {
 
 	static void printResult(int[] arr, int fake_i, int fake_j) {
